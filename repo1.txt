@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is EE1C-B900
+
+ Directory of C:\Users\PraveenkumarKarunani\OneDrive - Syncfusion\Desktop\New Repository
+
+11/29/2021  04:00 PM    <DIR>          .
+11/29/2021  04:00 PM    <DIR>          ..
+11/29/2021  04:00 PM                 0 repo1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  242,840,322,048 bytes free
